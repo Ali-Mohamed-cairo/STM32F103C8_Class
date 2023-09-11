@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "std_types.h": "c",
+        "rcc_private.h": "c",
+        "rcc_interface.h": "c"
+    }
+}
